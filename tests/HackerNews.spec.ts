@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { HackerNewsPage } from '../pages/HackerNewsPage';
+import * as fs from 'fs';
 
 // Test to verify data collection and validation, ensuring that the articles are sorted by timestamp from newest to oldest
 test('Hacker News homepage data collection and validation reporting', async ({ page }) => {
@@ -30,5 +31,19 @@ console.table(articles.map(a => ({
   Time: new Date(a.timestamp).toLocaleString(),
   Comments: a.comments
 })));
+
+let markdownReport = `# Hacker News Article Data Collection and Validation Report\n\n`;
+markdownReport += `Generated automatically on: **${new Date().toLocaleString()}**\n\n`;
+markdownReport += `| Rank | Title | Author | Time | Comments | Time Collected |\n`;
+markdownReport += `|------|-------|--------|------|----------|----------------|\n`;
+articles.forEach((article, index) => {
+  const title = article.title.replace(/\|/g, '\\|').substring(0, 50) + (article.title.length > 50 ? '...' : '');
+  const localTime = new Date(article.timestamp).toLocaleString();
+  markdownReport += `| ${ index + 1 } | ${ title } | ${ article.author } | ${ article.comments } | ${ localTime } |\n`;
+});
+
+fs.writeFileSync('HackerNews_Report.md', markdownReport);
+console.log('\nMarkdown report generated: HackerNews_Report.md');
+
 await page.close();
 });
