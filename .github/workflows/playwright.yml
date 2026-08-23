@@ -1,0 +1,39 @@
+name: Hacker News Automation Monitor
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+        - cron: '0 0 * * *' # Runs every day at midnight UTC
+jobs:
+    automation-test:
+        timeout-minutes: 10
+        runs-on: ubuntu-latest
+
+        steps:
+          - name: Checkout Code Repository
+            uses: actions/checkout@v4
+
+          - name: Setup Node.js Runtime
+            uses: actions/setup-node@v4
+            with:
+              node-version: lts/*
+              cache: 'npm'
+
+          - name: Install Project Dependencies
+            run: npm ci
+
+          - name: Install Playwright Browsers
+            run: npx playwright install --with-deps chromium
+
+          - name: Execute Playwright Tests
+            run: npx playwright test
+
+          - name: Upload Test Automation HTML Report
+            uses: actions/upload-artifact@v4
+            if: always()
+            with:
+              name: playwright-report
+              path: playwright-report/
+              retention-days: 30
