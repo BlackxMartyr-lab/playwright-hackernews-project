@@ -77,6 +77,7 @@ export class HackerNewsPage {
                 /* If the number of collected articles is less than the maximum,
                  check if the "More" button is visible and click it to load more articles; otherwise, break the loop */
                 if (articlesList.length < maxArticles) {
+                    await this.moreButton.waitFor({ state: 'attached'})
                     if (await this.moreButton.last().isVisible()) {
                         await this.moreButton.click();
                         await this.page.waitForLoadState('domcontentloaded');
