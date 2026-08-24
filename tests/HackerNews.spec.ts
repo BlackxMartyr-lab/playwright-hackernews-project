@@ -12,7 +12,7 @@ test('Hacker News homepage data collection and validation reporting', async ({ p
 
   // Validate that the number of collected articles is exactly 100
   expect(articles.length).toBe(100);
-
+  
   // Validate that the articles are sorted by timestamp from newest to oldest
   for (let i = 1; i < articles.length; i++) {
     expect(articles[i - 1].timestamp).toBeGreaterThanOrEqual(articles[i].timestamp);

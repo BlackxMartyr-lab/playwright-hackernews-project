@@ -1,4 +1,5 @@
 import { Page, Locator } from '@playwright/test';
+import { StatementSync } from 'node:sqlite';
 
 // Define the HackerNewsArticle interface to represent the structure of an article
 export interface HackerNewsArticle {
@@ -76,9 +77,9 @@ export class HackerNewsPage {
                 /* If the number of collected articles is less than the maximum,
                  check if the "More" button is visible and click it to load more articles; otherwise, break the loop */
                 if (articlesList.length < maxArticles) {
-                    if (await this.moreButton.isVisible()) {
+                    if (await this.moreButton.last().isVisible()) {
                         await this.moreButton.click();
-                        await this.articleRows.first().isVisible();
+                        await this.page.waitForLoadState('domcontentloaded');
                     } else {
                         break;
                     }
