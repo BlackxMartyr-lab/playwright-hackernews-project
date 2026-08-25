@@ -32,7 +32,7 @@ export class HackerNewsPage {
 
         // Loop to collect articles until the desired number is reached or no more articles are available
         while (articlesList.length < maxArticles) {
-            await this.articleRows.first().isVisible();
+            await this.page.waitForLoadState('networkidle')
             const countArticles = await this.articleRows.count();
 
             // Loop through the articles on the current page and extract their details
@@ -77,10 +77,9 @@ export class HackerNewsPage {
                 /* If the number of collected articles is less than the maximum,
                  check if the "More" button is visible and click it to load more articles; otherwise, break the loop */
                 if (articlesList.length < maxArticles) {
-                    await this.moreButton.waitFor({ state: 'attached'})
                     if (await this.moreButton.last().isVisible()) {
                         await this.moreButton.click();
-                        await this.page.waitForLoadState('domcontentloaded');
+                        await this.page.waitForLoadState('networkidle');
                     } else {
                         break;
                     }
