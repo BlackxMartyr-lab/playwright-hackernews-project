@@ -89,3 +89,4 @@ export class HackerNewsPage {
         // Return the list of collected articles
         return articlesList;
     }
+ }
