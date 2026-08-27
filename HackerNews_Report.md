@@ -1,106 +1,106 @@
 # Hacker News Article Data Collection and Validation Report
 
-Generated automatically on: **8/24/2026, 10:17:54 PM**
+Generated automatically on: **8/27/2026, 7:48:46 PM**
 
 | Rank | Title | Author | Time | Comments | Time Collected |
 |------|-------|--------|------|----------|----------------|
-| 1 | Thomson Reuters Launches Its Own Frontier Model | giuliomagnifico | 0 | 8/25/2026, 2:11:39 AM |
-| 2 | 80% of developers find AI coding more addictive th... | jethronethro | 0 | 8/25/2026, 2:09:52 AM |
-| 3 | MTIA 300: Meta's First Training Chip with Built-In... | sbulaev | 0 | 8/25/2026, 2:07:06 AM |
-| 4 | How to Route a DDR3 PCB [video] | nxobject | 0 | 8/25/2026, 2:06:18 AM |
-| 5 | Younger, lower-income entrepreneurs driving an inc... | keeda | 0 | 8/25/2026, 2:06:15 AM |
-| 6 | Apparent Elon Musk Pep Talk to His Cursor Staff Pa... | toomanyrichies | 0 | 8/25/2026, 2:03:44 AM |
-| 7 | "Tomorrow we will bring back the 5h limit for Plus... | minimaxir | 1 | 8/25/2026, 2:03:16 AM |
-| 8 | Walmart Waves the White Flag to Apple Pay | supster | 0 | 8/25/2026, 2:01:03 AM |
-| 9 | Attention-I made a new chess engine tool | WinstoneH | 0 | 8/25/2026, 1:59:30 AM |
-| 10 | The Global Birth Crash | toomuchtodo | 0 | 8/25/2026, 1:59:10 AM |
-| 11 | Show HN: Networthy – net-worth tracker that runs o... | awmanoj | 0 | 8/25/2026, 1:54:21 AM |
-| 12 | SK hynⅸ ru㎱ out of replacement SSDs and defaults t... | MiguelX413 | 0 | 8/25/2026, 1:49:43 AM |
-| 13 | PromoteOps MCP – Compare and promote AWS CloudForm... | HiteshShinde26 | 0 | 8/25/2026, 1:45:34 AM |
-| 14 | Bulgaria neutralizes GPS jammer that suppressed So... | r2sk5t | 0 | 8/25/2026, 1:43:30 AM |
-| 15 | Let the Bond Market Speak | gmays | 0 | 8/25/2026, 1:42:36 AM |
-| 16 | Multiplatform Speech Recognition Runtime | measurablefunc | 0 | 8/25/2026, 1:42:15 AM |
-| 17 | BMW Exec: Young People Prefer Voice and Screens ov... | cf100clunk | 4 | 8/25/2026, 1:41:02 AM |
-| 18 | How Universities Should Prepare Founders | gmays | 6 | 8/25/2026, 1:40:39 AM |
-| 19 | Patreon Sends 1.1 MB of JSON to Show You 75 Chat M... | rpst | 0 | 8/25/2026, 1:40:15 AM |
-| 20 | Was Modern Art a CIA Psy-Op? | neom | 0 | 8/25/2026, 1:35:00 AM |
-| 21 | Nvidia Vera Rubin NVL72 Rack at Hot Chips 2026 | pella | 0 | 8/25/2026, 1:32:12 AM |
-| 22 | AMD Helios MI400 System Architecture at Hot Chips ... | pella | 0 | 8/25/2026, 1:31:23 AM |
-| 23 | AMD MI400 GPU at Hot Chips 2026 | pella | 0 | 8/25/2026, 1:31:02 AM |
-| 24 | Protesting PS5 players now plan permanent blackout | anigbrowl | 1 | 8/25/2026, 1:28:35 AM |
-| 25 | Paying for Cached Tokens Sucks | lafalce | 0 | 8/25/2026, 1:28:06 AM |
-| 26 | Enterprise AI Operating System | devnavigator | 0 | 8/25/2026, 1:25:44 AM |
-| 27 | Russian drone guided by AI kills civilians in Ukra... | r2sk5t | 1 | 8/25/2026, 1:18:25 AM |
-| 28 | I turned a crappy movie tracking spreadsheet for m... | jesse_dot_id | 0 | 8/25/2026, 1:16:49 AM |
-| 29 | Some purchased movies on AppleTV are no longer acc... | erickhill | 0 | 8/25/2026, 1:11:01 AM |
-| 30 | The Great Blood Pressure Scam – By a Midwestern Do... | bilsbie | 1 | 8/25/2026, 1:09:07 AM |
-| 31 | Data Centre Slumlord | minimaxa | 0 | 8/25/2026, 1:02:16 AM |
-| 32 | Nvidia says Groq racks will be online this year fo... | geoffbp | 0 | 8/25/2026, 1:01:54 AM |
-| 33 | Runway Ruby | handfuloflight | 0 | 8/25/2026, 1:01:48 AM |
-| 34 | Flex: Let the Model Write the Code | gmays | 0 | 8/25/2026, 1:00:27 AM |
-| 35 | Facial recognition mandatory in New South Wales ga... | milderworkacc | 0 | 8/25/2026, 12:55:20 AM |
-| 36 | I built an agent-skill that turns your texts into ... | imshaikot | 0 | 8/25/2026, 12:55:10 AM |
-| 37 | Spinifex: Production Cloud Deployments Where the C... | toddyholiday | 0 | 8/25/2026, 12:54:43 AM |
-| 38 | Migrating the SEO on page from custom codeto Larav... | danielpetrica | 0 | 8/25/2026, 12:52:30 AM |
-| 39 | What languages are agent skills written in? | 3Mathematicians | 2 | 8/25/2026, 12:52:27 AM |
-| 40 | Show HN: Pyrift – static analyser for silent Pytho... | BHUVANSH855 | 0 | 8/25/2026, 12:47:11 AM |
-| 41 | We Probably Can't Terraform Mars [video] | binyu | 1 | 8/25/2026, 12:44:33 AM |
-| 42 | Nvidia wants to 'copy China's homework' and China ... | Alien1Being | 0 | 8/25/2026, 12:44:12 AM |
-| 43 | DK Digital SEO | davidochieng | 0 | 8/25/2026, 12:42:53 AM |
-| 44 | SiFive Accelerates RISC-V Datacenter Adoption with... | fork-bomber | 0 | 8/25/2026, 12:41:07 AM |
-| 45 | Headlong: Microharness Featuring Persistent Agency | handfuloflight | 1 | 8/25/2026, 12:39:30 AM |
-| 46 | Whatever Happened to End BeOS? | cable2600 | 0 | 8/25/2026, 12:38:54 AM |
-| 47 | Vetta: Long-Horizon Agents | handfuloflight | 0 | 8/25/2026, 12:37:22 AM |
-| 48 | OAuth for Agents | terryds | 0 | 8/25/2026, 12:36:55 AM |
-| 49 | How to write a thesis, according to Umberto Eco | teleforce | 0 | 8/25/2026, 12:35:21 AM |
-| 50 | Google Fuchsia Testing on Pixel Watch | i23942ok | 0 | 8/25/2026, 12:34:19 AM |
-| 51 | Who will decide that level AI you have access to? | Guustaaf | 3 | 8/25/2026, 12:34:19 AM |
-| 52 | Vancouver Coastal Sea Wolf | thunderbong | 0 | 8/25/2026, 12:33:40 AM |
-| 53 | Goove-bar – A menu app bar for managing Goove ligh... | arbayi | 0 | 8/25/2026, 12:33:03 AM |
-| 54 | Gavin Newsom Has an $18B Plan to Shore Up Californ... | newsomix9xl | 2 | 8/25/2026, 12:28:33 AM |
-| 55 | How Much to Charge-Freelance/Contracting – Web/UX/... | Yeagerist | 1 | 8/25/2026, 12:27:14 AM |
-| 56 | Mosaic – Production-Ready HLS and Dash CMAF Video ... | farshidrezaei | 0 | 8/25/2026, 12:25:30 AM |
-| 57 | Macron confirms school mobile phone ban effective ... | billybuckwheat | 0 | 8/25/2026, 12:21:00 AM |
-| 58 | State investigation requested following prolonged ... | newsomix9xl | 1 | 8/25/2026, 12:18:54 AM |
-| 59 | Show HN: Poka-Yoke – mistake-proofing skills for C... | rainmanjam | 0 | 8/25/2026, 12:14:15 AM |
-| 60 | Are You a Human? | njrc | 1 | 8/25/2026, 12:08:36 AM |
-| 61 | Show HN: MTL Explorer – Self-hosted archive for GP... | p-heusser | 1 | 8/25/2026, 12:06:31 AM |
-| 62 | Alabama Investigates OpenAI on HuggingFace Hacking... | abelsm | 0 | 8/25/2026, 12:06:22 AM |
-| 63 | Wk. 5 of Building an MMO | josiahturnq | 1 | 8/25/2026, 12:04:04 AM |
-| 64 | EEG and VR project (Live presentation and Q&A on S... | Christiangmer | 0 | 8/25/2026, 12:03:14 AM |
-| 65 | GitMir – an open source IDE that fixes your Claude... | venediktov | 0 | 8/25/2026, 12:01:19 AM |
-| 66 | I, for one, can't wait to join the permanent under... | danduma | 3 | 8/24/2026, 11:58:21 PM |
-| 67 | Fractals can be made without computers | jerrysneede | 0 | 8/24/2026, 11:56:18 PM |
-| 68 | AI Is Dissolving Software Moats. China Did It to H... | mehmet_mhy | 3 | 8/24/2026, 11:54:17 PM |
-| 69 | Those of you who are daily driving Linux, what are... | amichae2 | 5 | 8/24/2026, 11:52:14 PM |
-| 70 | I Built a Reddit-Like Forum for Agents. They Desig... | syumei | 0 | 8/24/2026, 11:49:06 PM |
-| 71 | Table of Integrals | pykello | 0 | 8/24/2026, 11:48:18 PM |
-| 72 | Oj: Rust Native Replacement for Vite | 0xedb | 0 | 8/24/2026, 11:46:16 PM |
-| 73 | I audited 2,475 businesses for AI-search readiness... | styleforge | 1 | 8/24/2026, 11:43:09 PM |
-| 74 | Show HN: A cloud harness for long autonomous work | bgrgndzz | 0 | 8/24/2026, 11:42:24 PM |
-| 75 | AI Skills for Real Engineers | ibobev | 0 | 8/24/2026, 11:39:22 PM |
-| 76 | Keyboard Shortcuts That Display the Correct Modifi... | ibobev | 0 | 8/24/2026, 11:38:05 PM |
-| 77 | Sandcastle | ibobev | 0 | 8/24/2026, 11:37:48 PM |
-| 78 | SaaS Isn't Dead. Sameness Is | Shoetp | 0 | 8/24/2026, 11:32:44 PM |
-| 79 | College Applications Are Changing Again, Thanks to... | apparent | 1 | 8/24/2026, 11:31:24 PM |
-| 80 | Ask HN: Non-engineers, how often do you code produ... | sakuraiben | 0 | 8/24/2026, 11:30:10 PM |
-| 81 | Reqwest vs. ureq vs. hyper: Which Rust HTTP Client... | kannanpoem1984 | 1 | 8/24/2026, 11:27:00 PM |
-| 82 | A Simplified Mental Model of LLMs | jmount | 0 | 8/24/2026, 11:26:27 PM |
-| 83 | Machine-Generated and Checked Proofs for a Verifie... | matt_d | 0 | 8/24/2026, 11:24:45 PM |
-| 84 | What my dad taught me about AI coding in the 90s | askmike | 0 | 8/24/2026, 11:23:32 PM |
-| 85 | How Far Can NYC Transit Take You? | thunderbong | 0 | 8/24/2026, 11:20:51 PM |
-| 86 | Playing whack-a-mole is losing | tabletcorry | 0 | 8/24/2026, 11:15:52 PM |
-| 87 | Pluralistic: How Canada can help Americans and def... | A_D_E_P_T | 0 | 8/24/2026, 11:15:48 PM |
-| 88 | Handling 8 thousand mouse refreshes per second in ... | jaimex2 | 0 | 8/24/2026, 11:14:16 PM |
-| 89 | UK will use Ukraine battlefield data to train AI a... | skor | 1 | 8/24/2026, 11:12:13 PM |
-| 90 | FreeToken: Efficient Edge-Native Moe Serving with ... | Anon84 | 0 | 8/24/2026, 11:10:29 PM |
-| 91 | Iran Is Using Foreign Criminals to Attack Its Crit... | firefax | 18 | 8/24/2026, 11:06:37 PM |
-| 92 | The cost of today's "smart" devices | smitty1e | 1 | 8/24/2026, 11:05:19 PM |
-| 93 | The Official Ig Nobel Card Game Is Born, Improbabl... | sohkamyung | 0 | 8/24/2026, 11:01:10 PM |
-| 94 | Bookshelf – Self-hosted eBook library that runs on... | arbayi | 13 | 8/24/2026, 11:00:37 PM |
-| 95 | Tiny, fast Windows Notepad replacement (source ava... | bananaboy | 1 | 8/24/2026, 11:00:27 PM |
-| 96 | SQLite as a Document Database (2020) | lioeters | 0 | 8/24/2026, 11:00:10 PM |
-| 97 | The text mode lie: why modern TUIs are a nightmare... | birdculture | 0 | 8/24/2026, 10:57:42 PM |
-| 98 | Evaluating Shrinking (Experience Report) | matt_d | 0 | 8/24/2026, 10:56:29 PM |
-| 99 | From Gradients to ChatGPT | simonpure | 0 | 8/24/2026, 10:55:33 PM |
-| 100 | Show HN: AiSyncing – Back up your AI coding assist... | mastermindxs | 0 | 8/24/2026, 10:52:08 PM |
+| 1 | Brazil is having it's own "Lou Gehrig" moment [vid... | kikokikokiko | 1 | 8/27/2026, 7:39:53 PM |
+| 2 | RAG Refresher Notebook | Lambda11 | 0 | 8/27/2026, 7:35:02 PM |
+| 3 | I made a DDoS/stress-test tool only with Python | Shiba44 | 0 | 8/27/2026, 7:34:10 PM |
+| 4 | Ask HN: Which class of business model is most resi... | chatmasta | 0 | 8/27/2026, 7:32:33 PM |
+| 5 | AI Finds Critical Flaw in Bitcoin Lightning, Devs ... | Jimmc414 | 0 | 8/27/2026, 7:31:16 PM |
+| 6 | Will AI developers be on the bench of future Nurem... | algoth1 | 0 | 8/27/2026, 7:30:53 PM |
+| 7 | Anthropic Is Quietly Cutting Google Out of the Equ... | Jimmc414 | 0 | 8/27/2026, 7:29:42 PM |
+| 8 | Unlimited AI calls, done sustainably | telui | 0 | 8/27/2026, 7:29:18 PM |
+| 9 | A Sex Tape Won't Make You Famous Anymore | petethomas | 0 | 8/27/2026, 7:27:54 PM |
+| 10 | Data center boom sparks lobbying surge | newsomix9xl | 1 | 8/27/2026, 7:27:35 PM |
+| 11 | Nvidia and Cerebras are selling performance their ... | joebuckwilliams | 0 | 8/27/2026, 7:27:04 PM |
+| 12 | Ask HN: What's the hardest thing you have ever don... | mezod | 0 | 8/27/2026, 7:23:22 PM |
+| 13 | Katamari Object Library | mef | 0 | 8/27/2026, 7:21:47 PM |
+| 14 | Three UK airports hit by cyber-attack with data of... | tchalla | 1 | 8/27/2026, 7:19:58 PM |
+| 15 | Ubuntu 26.04.1 LTS Released | metrofun | 0 | 8/27/2026, 7:18:04 PM |
+| 16 | A pure-Go ADS-B stack | Hyperized | 0 | 8/27/2026, 7:10:30 PM |
+| 17 | Data Science Weekly – Issue 666 | sebg | 0 | 8/27/2026, 7:10:21 PM |
+| 18 | Private Credit Investors Prefer to Be Trapped Than... | petethomas | 0 | 8/27/2026, 7:08:19 PM |
+| 19 | 'Headless software' signals further AI-led shake-u... | petethomas | 0 | 8/27/2026, 7:06:42 PM |
+| 20 | UK approves 400 MW solar project with 600 MW co-lo... | DamonHD | 0 | 8/27/2026, 7:04:42 PM |
+| 21 | Australia is the safest place during a global cata... | thedreammachine | 1 | 8/27/2026, 7:03:27 PM |
+| 22 | Oracle Helped Kneecap Section 230, Then Bought 15%... | hn_acker | 1 | 8/27/2026, 7:03:08 PM |
+| 23 | SpaceKit AI | spacekitxyz | 0 | 8/27/2026, 6:59:26 PM |
+| 24 | Oral History of Andy Hertzfeld [video] | rglover | 0 | 8/27/2026, 6:57:36 PM |
+| 25 | AI Stock Research Assistant · Streamlit | KiaanKothari | 0 | 8/27/2026, 6:57:16 PM |
+| 26 | Show HN: L0/L1/L2 agents, leases, gates, audits, G... | mr-pickle | 0 | 8/27/2026, 6:56:17 PM |
+| 27 | Clicky: A Clickwheel iPod Emulator | zdw | 0 | 8/27/2026, 6:55:41 PM |
+| 28 | Show HN: Pepakura Set, a matching game for kids | haberdasher | 0 | 8/27/2026, 6:55:35 PM |
+| 29 | Google Engineer Accused of Polymarket Insider Trad... | MarcoDewey | 0 | 8/27/2026, 6:53:28 PM |
+| 30 | The Great Floating Homes of Los Angeles | mitchbob | 1 | 8/27/2026, 6:52:38 PM |
+| 31 | How to Train Your GPT | aray07 | 0 | 8/27/2026, 6:48:28 PM |
+| 32 | The Twelve-Factor App | jxmorris12 | 0 | 8/27/2026, 6:41:11 PM |
+| 33 | Show HN: Taste Library, a Spiritual Successor to D... | felixding | 0 | 8/27/2026, 6:39:33 PM |
+| 34 | Select * from Internet.blogposts | mmattbtw | 0 | 8/27/2026, 6:34:32 PM |
+| 35 | A Million Kakapos | birdculture | 1 | 8/27/2026, 6:33:39 PM |
+| 36 | Show HN: Beating GPT5.5-xhigh for Coding agent sec... | se4u | 3 | 8/27/2026, 6:33:19 PM |
+| 37 | Quiet BPD: The Hidden War Inside Your Mind | raynchad | 0 | 8/27/2026, 6:33:14 PM |
+| 38 | Multi-functional oral small molecule to treat obes... | bcaulfield | 0 | 8/27/2026, 6:30:39 PM |
+| 39 | Doctors are finally learning to manage antidepress... | eutropheon | 16 | 8/27/2026, 6:26:04 PM |
+| 40 | Google Cloud postmortem for us-west1 August incide... | fastest963 | 0 | 8/27/2026, 6:21:17 PM |
+| 41 | Show HN: Make apps in seconds inside of sandbox an... | sakuraiben | 0 | 8/27/2026, 6:20:31 PM |
+| 42 | What the heck is a context layer | Debanitrkl | 0 | 8/27/2026, 6:18:47 PM |
+| 43 | The advent of capable AI tools has highighted a va... | ColinWright | 0 | 8/27/2026, 6:17:47 PM |
+| 44 | Australia's Nationwide Phone Outage Was an Embarra... | anonymousiam | 1 | 8/27/2026, 6:16:22 PM |
+| 45 | My $120 GE smart scale's body fat is just 1.5 × BM... | Icons8 | 0 | 8/27/2026, 6:15:54 PM |
+| 46 | Using LLMs to Make the Emacs Web Browser Great Aga... | sammy0910 | 0 | 8/27/2026, 6:15:20 PM |
+| 47 | The Night the Earth Shook, Strangers Started to Dr... | sebg | 0 | 8/27/2026, 6:15:09 PM |
+| 48 | Intelligence Is the Primitive. Applications Are th... | gmays | 0 | 8/27/2026, 6:14:59 PM |
+| 49 | Running local large language models: not as diffic... | sebg | 0 | 8/27/2026, 6:13:43 PM |
+| 50 | Ask HN: Note taking app good at Spanish? | prios8 | 1 | 8/27/2026, 6:13:22 PM |
+| 51 | Show HN: OpenTIE and OpenXWA, Modern Ports of Tie ... | elyosh | 3 | 8/27/2026, 6:10:47 PM |
+| 52 | Why Are Rivers So Mathematical? | sebg | 0 | 8/27/2026, 6:09:15 PM |
+| 53 | Buried in Meta's $18B settlement is a legal pass o... | sbulaev | 2 | 8/27/2026, 6:07:07 PM |
+| 54 | Knowledge Health: observability for your knowledge... | fagnerbrack | 0 | 8/27/2026, 6:00:37 PM |
+| 55 | Why I Am Right About AI [by Paul "Claude" Gigot] | samizdis | 2 | 8/27/2026, 5:56:11 PM |
+| 56 | Show HN: T2 Linux Touch ID PoC | jmurth1234 | 0 | 8/27/2026, 5:54:51 PM |
+| 57 | Situs Inversus | sjclemmy | 0 | 8/27/2026, 5:52:24 PM |
+| 58 | Show HN: I put 20 ad slots under a Harberger tax | nadermx | 0 | 8/27/2026, 5:52:05 PM |
+| 59 | Show HN: ArtGram – a notation system for abstract ... | rituraj | 0 | 8/27/2026, 5:47:29 PM |
+| 60 | AI's memory crunch is coming for Android apps | 627467 | 0 | 8/27/2026, 5:47:10 PM |
+| 61 | AI Engineer Notebooks – free, framework-free RAG/a... | calmrocks | 0 | 8/27/2026, 5:46:39 PM |
+| 62 | I built a pure-Rust headless browser. No Chromium.... | syumei | 0 | 8/27/2026, 5:46:29 PM |
+| 63 | Copyrightability of LLM-generated code: Can we lic... | WhyNotHugo | 1 | 8/27/2026, 5:45:19 PM |
+| 64 | Intel previews future instruction-set documentaton | mmcloughlin | 0 | 8/27/2026, 5:45:04 PM |
+| 65 | Outbid case study: auction became the ad (2026) | threadotter | 0 | 8/27/2026, 5:44:16 PM |
+| 66 | Four reproducible vLLM parser failures that return... | glitch003 | 0 | 8/27/2026, 5:41:59 PM |
+| 67 | Anomalyco/OpenCode, Aider-AI/aider, and Cline Revi... | paretolaw | 2 | 8/27/2026, 5:40:19 PM |
+| 68 | Show HN: IQ Routing – route every call to the chea... | Georgeavvila | 0 | 8/27/2026, 5:40:02 PM |
+| 69 | Show HN: Per Diem, a daily dice game like Balatro | lwansbrough | 0 | 8/27/2026, 5:39:55 PM |
+| 70 | Storm Summoner, a MIDI controller for effects peda... | peteforde | 0 | 8/27/2026, 5:38:27 PM |
+| 71 | The Minolta SR-T I kept for myself | robotmay | 0 | 8/27/2026, 5:37:24 PM |
+| 72 | Agent Swarms Are a Distributed Systems Problem | rescrv | 1 | 8/27/2026, 5:33:20 PM |
+| 73 | Ask HN: How does your preferred AI handle question... | arionhardison | 0 | 8/27/2026, 5:33:00 PM |
+| 74 | The Weed Got Too Strong | bookofjoe | 4 | 8/27/2026, 5:30:27 PM |
+| 75 | The Trump administration's March to the Spoils Sys... | petethomas | 0 | 8/27/2026, 5:30:11 PM |
+| 76 | Model Success Rate May Count the Wrong Runs | DISCURSIVE | 0 | 8/27/2026, 5:29:58 PM |
+| 77 | Tim O'Reilly – Writing with AI | rmason | 0 | 8/27/2026, 5:27:50 PM |
+| 78 | Simple Machine | ogogmad | 0 | 8/27/2026, 5:27:06 PM |
+| 79 | Selected by Mel Brooks (20 titles): 100 Years at t... | mdp2021 | 1 | 8/27/2026, 5:27:06 PM |
+| 80 | Why coding agents stop early on long-horizon softw... | favoboa | 0 | 8/27/2026, 5:25:53 PM |
+| 81 | Show HN: Webtoolio dev tools that run entirely in ... | deezduudez | 0 | 8/27/2026, 5:24:51 PM |
+| 82 | Show HN: A shop that makes it hard to buy things | rexfuzzle | 0 | 8/27/2026, 5:24:31 PM |
+| 83 | Bill Gates proposes major limits on AI development | rmason | 3 | 8/27/2026, 5:24:30 PM |
+| 84 | OpenAI Is Developing a 'Persistent' AI Agent | thm | 0 | 8/27/2026, 5:23:37 PM |
+| 85 | YouTube Shopping Creators can now tag Amazon produ... | thm | 0 | 8/27/2026, 5:22:50 PM |
+| 86 | Show HN: ChessRabbit – The AI Chess Analysis Platf... | ahmedhosssam | 0 | 8/27/2026, 5:22:39 PM |
+| 87 | Data Centers and the Open Access Order | sershe | 0 | 8/27/2026, 5:22:07 PM |
+| 88 | Integrity Bench – Measuring LLM confidence errors | Topfi | 0 | 8/27/2026, 5:20:32 PM |
+| 89 | Google Flow – AI Creative Studio for Video, Images... | thekyle | 0 | 8/27/2026, 5:18:36 PM |
+| 90 | Show HN: We built open OpenRouter that turns usage... | SilenN | 6 | 8/27/2026, 5:18:35 PM |
+| 91 | The Open Source Maintenance Fee for Polly | billwashere | 0 | 8/27/2026, 5:16:38 PM |
+| 92 | Simular's Sai tops OSWorld 2.0, beats GPT and Opus... | taro666 | 0 | 8/27/2026, 5:12:49 PM |
+| 93 | SK Hynix CEO: Memory Shortage to Persist Through t... | mfiguiere | 0 | 8/27/2026, 5:12:06 PM |
+| 94 | [dup] Sam Altman says the economy is adapting to A... | oenton | 2 | 8/27/2026, 5:11:07 PM |
+| 95 | Millennium Criteria Assessment 2027 | nian2326076 | 0 | 8/27/2026, 5:10:45 PM |
+| 96 | Singapore's Neuron Rack Costs More to Rent Than It... | julienreszka | 0 | 8/27/2026, 5:10:40 PM |
+| 97 | How to Build an AI Scheduling Assistant with Calen... | piotrgrudzien | 0 | 8/27/2026, 5:10:23 PM |
+| 98 | Lambda – fast portable agent harness in C | montyanderson | 0 | 8/27/2026, 5:09:16 PM |
+| 99 | Sam Altman says the economy is adapting to AI slow... | oenton | 1 | 8/27/2026, 5:08:40 PM |
+| 100 | AI's Inference Era of Ferment – By Ben Bajarin | rbanffy | 0 | 8/27/2026, 5:07:48 PM |
