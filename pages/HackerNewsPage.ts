@@ -85,7 +85,7 @@ export class HackerNewsPage {
                     }
                 }
             }
-            // Return the list of collected articles
-            return articlesList;
         }
+        // Return the list of collected articles
+        return articlesList;
     }
