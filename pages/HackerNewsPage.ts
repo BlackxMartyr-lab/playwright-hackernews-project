@@ -37,9 +37,6 @@ export class HackerNewsPage {
             for (let i = 0; i < countArticles; i++) {
                 if (articlesList.length >= maxArticles) break;
 
-                // Tells the page to wait for the first article to be seen
-                await this.articleRows.first().waitFor({ state: 'attached'});
-
                 // Extract the title, author, timestamp, and number of comments for each article
                 const row = this.articleRows.nth(i);
                 const title = await row.locator('span.titleline > a').first().innerText().catch(() => 'No title');
@@ -78,6 +75,9 @@ export class HackerNewsPage {
                 /* If the number of collected articles is less than the maximum,
                  check if the "More" button is visible and click it to load more articles; otherwise, break the loop */
                 if (articlesList.length < maxArticles) {
+                    
+                    // Tells the page to wait for the first article to be seen
+                await this.articleRows.first().waitFor({ state: 'attached'});
                     if (await this.moreButton.last().isVisible()) {
                         await this.moreButton.click();
                         await this.page.waitForLoadState('networkidle');
