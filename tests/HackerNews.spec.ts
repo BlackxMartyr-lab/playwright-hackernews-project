@@ -28,14 +28,14 @@ console.table(articles.map(a => ({
   in the report and append ellipsis if the title exceeds that length */
   Title: a.title.substring(0, 50) + (a.title.length > 50 ? '...' : ''),
   Author: a.author,
-  Time: new Date(a.timestamp).toLocaleString(),
-  Comments: a.comments
+  Comments: a.comments,
+  Time: new Date(a.timestamp).toLocaleString()
 })));
 
 let markdownReport = `# Hacker News Article Data Collection and Validation Report\n\n`;
 markdownReport += `Generated automatically on: **${new Date().toLocaleString()}**\n\n`;
-markdownReport += `| Rank | Title | Author | Time | Comments | Time Collected |\n`;
-markdownReport += `|------|-------|--------|------|----------|----------------|\n`;
+markdownReport += `| Rank | Title | Author | Comments | Time Collected |\n`;
+markdownReport += `|------|-------|--------|----------|----------------|\n`;
 articles.forEach((article, index) => {
   const title = article.title.replace(/\|/g, '\\|').substring(0, 50) + (article.title.length > 50 ? '...' : '');
   const localTime = new Date(article.timestamp).toLocaleString();
