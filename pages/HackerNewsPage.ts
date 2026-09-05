@@ -32,8 +32,8 @@ export class HackerNewsPage {
         // Loop to collect articles until the desired number is reached or no more articles are available
         while (articlesList.length < maxArticles) {
             
-            // Tells the page to wait for the first article to be seen
-            await this.articleRows.first().isVisible();
+            // Tells the page to wait for the "More" button to be attached to the DOM before proceeding
+            await this.articleRows.first().waitFor({ state: 'visible' });
 
             const countArticles = await this.articleRows.count();
 
@@ -81,10 +81,16 @@ export class HackerNewsPage {
                 if (articlesList.length < maxArticles) {
                     
                     // Tells the page to wait for the first article to be seen
-                await this.articleRows.first().waitFor({ state: 'attached'});
-                    if (await this.moreButton.last().isVisible()) {
+                    if (await this.moreButton.isVisible()) {
+                        const currentTop = await this.articleRows.first().innerText();
                         await this.moreButton.click();
-                        await this.articleRows.first().isVisible();
+                        await this.page.waitForFunction(
+                            ([selector, oldTop]) => {
+                                const firstArticle = document.querySelector(selector);
+                                return firstArticle && firstArticle.textContent !== oldTop;
+                            },
+                            ['tr.athing', currentTop]
+                        );
                     } else {
                         break;
                     }
