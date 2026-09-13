@@ -4,15 +4,21 @@
 ![Language](https://shields.io)
 ![Framework](https://shields.io)
 
-A modular, enterprise-grade End-to-End (E2E) testing and automation architecture built to scrape, parse, and report data from Hacker News. This project demonstrates advanced automation concepts, including the **Page Object Model (POM)**, asynchronous data processing, error handling, and cloud-based **CI/CD pipeline integration**.
+Playwright automation project for collecting, validating, and reporting on the 100 newest Hacker News articles.
+
+The project demonstrates browser automation, structured data collection, validation, Page Object Model design, automated reporting, and CI/CD execution through GitHub Actions.
 
 ## 🚀 Key Features
 
-*   **Page Object Model (POM):** Scalable and maintainable folder architecture decoupling structural UI actions from core script assertions.
-*   **Asynchronous Data Parsing:** Custom TypeScript algorithms utilizing Regular Expressions (Regex) to programmatically isolate, clean, and map dynamic web elements.
-*   **Automated Ledger Reporting:** Generates persistent Markdown tracking data (`HackerNews_Report.md`) upon successful execution workflows.
-*   **Robust Dynamic Selectors:** Re-engineered legacy element synchronization by transitioning to highly reliable, contextual, index-mapped CSS bindings.
-*   **CI/CD Pipeline Integration:** Fully automated serverless test execution suite via GitHub Actions scheduled on a daily cron calendar cadence.
+*   **### Key Features
+
+- Scrapes the 100 newest Hacker News articles
+- Validates article count and chronological ordering
+- Extracts and validates article metadata
+- Uses the Page Object Model (POM) for maintainable test structure
+- Generates a data collection and validation report
+- Runs automated tests through GitHub Actions
+- Accounts for rate limiting during cloud-based execution
 
 ## 🛠️ Tech Stack & Tools
 
@@ -66,3 +72,18 @@ npx playwright test --ui
 ## 🤖 CI/CD Deployment
 
 This architecture runs completely virtualized on a daily schedule using **GitHub Actions**. The pipeline handles setup, installs isolated browser binaries, runs the full automated suite to validate system regression status, and confirms overall data payload integrity.
+
+## ⚠️ Rate Limiting & CI Reliability
+
+While testing the workflow in GitHub Actions, the Hacker News site
+occasionally returned HTTP 429 (Too Many Requests) responses when the
+automation made requests too quickly.
+
+To address this, the data collection workflow was adjusted to introduce
+controlled delays between requests. This reduced the likelihood of
+triggering Hacker News rate limits and allowed the CI workflow to
+reliably collect and validate the required 100 articles.
+
+This issue highlighted the importance of accounting for real-world
+network and service limitations when running browser automation in
+cloud-based CI environments.
