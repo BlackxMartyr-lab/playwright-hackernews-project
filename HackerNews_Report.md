@@ -1,106 +1,106 @@
 # Hacker News Article Data Collection and Validation Report
 
-Generated automatically on: **9/5/2026, 5:52:22 PM**
+Generated automatically on: **9/28/2026, 9:17:28 PM**
 
 | Rank | Title | Author | Comments | Time Collected |
 |------|-------|--------|----------|----------------|
-| 1 | Russian Drones Forced Ukraine to Park Its M1 Abram... | cisc | 0 | 9/5/2026, 5:48:01 PM |
-| 2 | America's Two Largest School Districts Impose AI M... | cdrnsf | 0 | 9/5/2026, 5:43:22 PM |
-| 3 | Google AI turns on its maker in a brutally candid ... | cisc | 0 | 9/5/2026, 5:38:22 PM |
-| 4 | Teaching Prevents Learning | Marius_Manola | 0 | 9/5/2026, 5:38:17 PM |
-| 5 | The revolt of the reader | chmaynard | 0 | 9/5/2026, 5:37:49 PM |
-| 6 | The AI-Native SDLC Playbook | gmays | 0 | 9/5/2026, 5:26:00 PM |
-| 7 | Afterword – a multiplayer remake of Word After Wor... | indigodaddy | 1 | 9/5/2026, 5:25:47 PM |
-| 8 | South African diamond mines are closing due to wea... | bookofjoe | 1 | 9/5/2026, 5:17:00 PM |
-| 9 | Obscura: Native rendering is here. No Chromium req... | partsch | 0 | 9/5/2026, 5:16:06 PM |
-| 10 | Show HN: Virtual photoshoot for guys who dislike h... | Ritjert | 0 | 9/5/2026, 5:15:08 PM |
-| 11 | Researchers Spot Fake Ancient Pottery Using the Ea... | cisc | 0 | 9/5/2026, 5:14:18 PM |
-| 12 | OpenRDX | SunboX | 0 | 9/5/2026, 5:12:58 PM |
-| 13 | OpenAI Response to the Wiki Incident | theCricketer | 1 | 9/5/2026, 5:09:45 PM |
-| 14 | Lazygit | amirmasoudabdol | 0 | 9/5/2026, 5:08:09 PM |
-| 15 | Show HN: Fast Cut Video tool for cutting video for... | Modecir | 1 | 9/5/2026, 5:06:05 PM |
-| 16 | How AI is breaking the British state | tchalla | 0 | 9/5/2026, 5:05:35 PM |
-| 17 | Show HN: I replaced my portfolio with an AI that k... | AaronJonk | 0 | 9/5/2026, 5:05:21 PM |
-| 18 | What different world maps get right – and what the... | 1659447091 | 0 | 9/5/2026, 5:04:26 PM |
-| 19 | Read efficiency issues in Postgres queries | blueshoess | 0 | 9/5/2026, 5:03:34 PM |
-| 20 | Show HN: Phntm-ONE: I built a local AI desk assist... | phntmcore | 0 | 9/5/2026, 5:03:22 PM |
-| 21 | Make Peace with Darwin | paulpauper | 0 | 9/5/2026, 5:03:16 PM |
-| 22 | The Scaling versus Profitability Trade-Off: Ventur... | paulpauper | 0 | 9/5/2026, 4:59:58 PM |
-| 23 | Show HN: I made a seal Tamagotchi game in Three.js | sakuraiben | 0 | 9/5/2026, 4:58:14 PM |
-| 24 | Worldbuilding Gender | paulpauper | 0 | 9/5/2026, 4:55:39 PM |
-| 25 | How to perform CPR and defibrillation training vid... | schnatterer | 1 | 9/5/2026, 4:53:12 PM |
-| 26 | How do you filter noise from signal in programming... | taosx | 0 | 9/5/2026, 4:50:51 PM |
-| 27 | PR review when everyone has LLMs | thombles | 0 | 9/5/2026, 4:49:41 PM |
-| 28 | Show HN: Merge Wikipedia articles across languages... | neehao | 0 | 9/5/2026, 4:48:43 PM |
-| 29 | From a Chocolate Wrapper to Concurrent InnoDB Page... | drrtuy | 0 | 9/5/2026, 4:48:30 PM |
-| 30 | Daynode: Calendar, Reminders, and Notes | handfuloflight | 0 | 9/5/2026, 4:47:11 PM |
-| 31 | Crbro – Local, file-based memory for MCP agents wi... | cerebromcp | 0 | 9/5/2026, 4:45:52 PM |
-| 32 | Soviet dreams of the future / Madrobots Blog – Sud... | rbanffy | 0 | 9/5/2026, 4:38:45 PM |
-| 33 | Verifiable Domains Will Eat the World | gmays | 0 | 9/5/2026, 4:37:27 PM |
-| 34 | Webring.rip – 160k generated 1997 home pages, no b... | henrychannel | 1 | 9/5/2026, 4:35:04 PM |
-| 35 | Netflix's Multimodal Asset Personalization at Scal... | vzhou842 | 0 | 9/5/2026, 4:34:33 PM |
-| 36 | Your Boss Is Watching You | devonnull | 1 | 9/5/2026, 4:34:30 PM |
-| 37 | Ganon's Mysterious Origins (Revisited) | tobr | 0 | 9/5/2026, 4:33:29 PM |
-| 38 | Private German rocket makes history, reaches orbit... | bookmtn | 49 | 9/5/2026, 4:31:38 PM |
-| 39 | PanoDrop – Save and share specific 360° street-lev... | dueffects | 0 | 9/5/2026, 4:31:17 PM |
-| 40 | Ask HN: How do you build organic traction as an in... | charm137 | 0 | 9/5/2026, 4:29:31 PM |
-| 41 | Finite time blowup for an averaged three-dimension... | gmays | 12 | 9/5/2026, 4:25:59 PM |
-| 42 | Isar Aerospace launch into orbit [video] | stefan_ | 9 | 9/5/2026, 4:25:30 PM |
-| 43 | Equal Earth Projection | cainxinth | 0 | 9/5/2026, 4:22:26 PM |
-| 44 | Carcinisation | yladiz | 0 | 9/5/2026, 4:16:03 PM |
-| 45 | Everything is free now, so why not a floating orb ... | eighttrigrams | 0 | 9/5/2026, 4:15:36 PM |
-| 46 | US strikes three Iranian oil tankers | TechTechTech | 3 | 9/5/2026, 4:15:16 PM |
-| 47 | Space industry lacks workers needed to rebuild sat... | billybuckwheat | 43 | 9/5/2026, 4:14:25 PM |
-| 48 | Lenovo unveils ThinkBook AeroBlade: 14", Ultra 7, ... | cromka | 0 | 9/5/2026, 4:11:50 PM |
-| 49 | OSHintosh IIxi Works | mariuz | 0 | 9/5/2026, 4:10:45 PM |
-| 50 | OSHintosh – an open source hardware 68000 Macintos... | mariuz | 0 | 9/5/2026, 4:09:31 PM |
-| 51 | AfterQuery becomes Y Combinator's fastest-ever uni... | andsoitis | 0 | 9/5/2026, 4:08:39 PM |
-| 52 | NeurIPS started desk-rejecting papers over referen... | Tughan | 1 | 9/5/2026, 4:07:25 PM |
-| 53 | Capta – The Mac screen recorder that edits itself | gorgekara | 0 | 9/5/2026, 4:06:34 PM |
-| 54 | UN agrees text on lethal autonomous weapons | fork-bomber | 0 | 9/5/2026, 4:05:45 PM |
-| 55 | Warmbly: Open-Source Cold Email | handfuloflight | 0 | 9/5/2026, 4:04:56 PM |
-| 56 | Bad Apple but It's Frontier Lab Benchmarks [video] | TheIronYuppie | 0 | 9/5/2026, 4:04:49 PM |
-| 57 | America has a whopping debt. But Europe has the wh... | andsoitis | 2 | 9/5/2026, 4:04:00 PM |
-| 58 | LLMs as a Cognitive Virus | canjobear | 30 | 9/5/2026, 4:02:35 PM |
-| 59 | Discord Is Bringing Back Age Verification | variety8675 | 0 | 9/5/2026, 4:01:13 PM |
-| 60 | Effect Agent | handfuloflight | 0 | 9/5/2026, 4:00:14 PM |
-| 61 | How work makes families more equal | andsoitis | 0 | 9/5/2026, 3:57:50 PM |
-| 62 | Patterns, Predictions, and Actions: A story about ... | Anon84 | 0 | 9/5/2026, 3:55:44 PM |
-| 63 | NoGraphicsAPI | coffeeaddict1 | 0 | 9/5/2026, 3:55:15 PM |
-| 64 | GitHub issues on Laravel open-source packages are ... | heyiamlukas | 1 | 9/5/2026, 3:53:55 PM |
-| 65 | Does KaiOS sell my text message data? | endofreach | 0 | 9/5/2026, 3:53:32 PM |
-| 66 | How (Not) to Find a SWE Job in North America | frant1c | 0 | 9/5/2026, 3:49:55 PM |
-| 67 | Kevin Bass on X: "Women gained all of the new jobs... | bilsbie | 2 | 9/5/2026, 3:47:55 PM |
-| 68 | There's No Such Thing as an AI 'Lab' | Anon84 | 0 | 9/5/2026, 3:47:42 PM |
-| 69 | Discrete Dipole Approximation Code Ddscat 7.2 (201... | doener | 0 | 9/5/2026, 3:45:47 PM |
-| 70 | OpenSourceRail | modernecotech | 1 | 9/5/2026, 3:44:02 PM |
-| 71 | ISAR Aerospace 5 Sept Mission Onward and Upward | t43562 | 1 | 9/5/2026, 3:41:27 PM |
-| 72 | Trump Officials Draft Plan to Pay At-Home Parents,... | koolba | 1 | 9/5/2026, 3:40:55 PM |
-| 73 | Who Killed the American Demoscene? (2019) | wy35 | 1 | 9/5/2026, 3:38:55 PM |
-| 74 | Generating scenarios for extreme events, without e... | taubek | 0 | 9/5/2026, 3:38:08 PM |
-| 75 | Daemoncore Academy Now 100% Free Cyber Security Ce... | DaemonCoreApp | 0 | 9/5/2026, 3:34:44 PM |
-| 76 | Ling 3.0 Tiny | AbuAssar | 0 | 9/5/2026, 3:33:45 PM |
-| 77 | Ask HN: Did you see this Polymarket post on X toda... | skwasimin | 1 | 9/5/2026, 3:31:02 PM |
-| 78 | Show HN: ChatPanel Now Available on Firefox | earth2mars | 1 | 9/5/2026, 3:30:01 PM |
-| 79 | Eliza Effect | tripdout | 1 | 9/5/2026, 3:29:49 PM |
-| 80 | UN votes to adopt new map that makes our world loo... | consumer451 | 0 | 9/5/2026, 3:27:57 PM |
-| 81 | Show HN: Claude Skill – Interns must review (your ... | alpbahadur | 0 | 9/5/2026, 3:27:47 PM |
-| 82 | Elon Musk's Inner Circle Is Pouring Cash into Maki... | gmays | 0 | 9/5/2026, 3:26:42 PM |
-| 83 | Large language models can predict the results of s... | paulpauper | 0 | 9/5/2026, 3:26:18 PM |
-| 84 | Our Likely Future Filter: World Govt | paulpauper | 0 | 9/5/2026, 3:25:48 PM |
-| 85 | The Danube River's water is dropping so low that W... | throwaway2037 | 0 | 9/5/2026, 3:25:18 PM |
-| 86 | Anyone using llama.cpp willing to test LlamaRack? | Vibecoder_ | 1 | 9/5/2026, 3:24:17 PM |
-| 87 | Share price numbers for the Hugging Face incident | paulpauper | 0 | 9/5/2026, 3:23:44 PM |
-| 88 | Benzi – A harness reading LESS source code to writ... | kamarovmakarov | 1 | 9/5/2026, 3:22:25 PM |
-| 89 | Phase Dynamics on a T 3-Manifols | AevumOriens | 0 | 9/5/2026, 3:18:57 PM |
-| 90 | Appreciate Creativity and Art | mahirsaid | 0 | 9/5/2026, 3:17:12 PM |
-| 91 | Ironies of Automation [pdf] | recursivedoubts | 1 | 9/5/2026, 3:16:55 PM |
-| 92 | The moral panic over data centres is foolish | andsoitis | 140 | 9/5/2026, 3:15:50 PM |
-| 93 | Show HN: Red Hat build of Podman Desktop | twelvenmonkeys | 1 | 9/5/2026, 3:13:36 PM |
-| 94 | A single workout may help protect memory after a s... | mdp2021 | 0 | 9/5/2026, 3:13:21 PM |
-| 95 | Show HN: I made DeepSeek a stock prophet in the ch... | SKYNET800 | 0 | 9/5/2026, 3:10:42 PM |
-| 96 | Knowing Where to Type 'Zero' (2015) | birdculture | 0 | 9/5/2026, 3:09:37 PM |
-| 97 | OpenAI agent swarm posted two FBI database API key... | ericzawo | 3 | 9/5/2026, 3:07:25 PM |
-| 98 | Over 5,400 hacked sites serve ClickFix payloads st... | sbulaev | 0 | 9/5/2026, 3:07:07 PM |
-| 99 | Bringing modern USB xHCI support to Windows 98/ME/... | ingve | 0 | 9/5/2026, 3:06:53 PM |
-| 100 | GPT-6 Astra might be too powerful to understand or... | rome | 2 | 9/5/2026, 3:03:46 PM |
+| 1 | OpenAI shelves new AI model after internal safety ... | doppp | 0 | 9/29/2026, 1:11:58 AM |
+| 2 | How well do you know AI? | msukhareva | 0 | 9/29/2026, 1:10:52 AM |
+| 3 | Show HN: Diabetes Risk Analyzer (Flask-based web a... | asrivastava1125 | 1 | 9/29/2026, 1:01:22 AM |
+| 4 | Show HN: Terminal Typing SVG | apson | 0 | 9/29/2026, 1:00:58 AM |
+| 5 | We found 24 Android vulnerabilities using our open... | fourfire | 0 | 9/29/2026, 12:55:47 AM |
+| 6 | Great Leaps in Biological Theory | signa11 | 0 | 9/29/2026, 12:51:17 AM |
+| 7 | Built Dental Scope | Zeruxe | 3 | 9/29/2026, 12:47:19 AM |
+| 8 | Tank Body Problem | jimbooonooo | 1 | 9/29/2026, 12:41:45 AM |
+| 9 | Why Do We Exist? With Hakeem Oluseyi [video] | binyu | 0 | 9/29/2026, 12:39:59 AM |
+| 10 | OpenAI scraps release of Astra 6.1 model over safe... | lisper | 0 | 9/29/2026, 12:38:41 AM |
+| 11 | Holo4: Powering generalist computer-use agents | acossta | 0 | 9/29/2026, 12:36:21 AM |
+| 12 | Show HN: Corral kill every command your agent star... | CG144 | 0 | 9/29/2026, 12:35:05 AM |
+| 13 | OpenAI Says It Will Not Release Newest A.I. Model ... | jbegley | 12 | 9/29/2026, 12:34:27 AM |
+| 14 | Show HN: Jylus – give AI systems evidence from cha... | JoshJH | 0 | 9/29/2026, 12:33:11 AM |
+| 15 | Knockoff: A browser extension that filters pseudo-... | hentrep | 0 | 9/29/2026, 12:32:22 AM |
+| 16 | Show HN: Jauvex 1.2, two-way voice chat harness fo... | daraosn | 1 | 9/29/2026, 12:31:44 AM |
+| 17 | AI Companies Are Not (Necessarily) Liable for Unin... | theptip | 0 | 9/29/2026, 12:29:20 AM |
+| 18 | What is the best LLM for turbo charging code? | ffgfghgffggxxxx | 1 | 9/29/2026, 12:28:34 AM |
+| 19 | OpenAI Halts Model Release Amid Safety Escalation | hackernj | 0 | 9/29/2026, 12:25:44 AM |
+| 20 | Its not just the f*cking sandbox | jumploops | 0 | 9/29/2026, 12:18:34 AM |
+| 21 | AI and the Revenge of the Non-Techies | maroun-baydoun | 0 | 9/29/2026, 12:18:30 AM |
+| 22 | AI's next training data: your dodgy gaming skills | promptspheree | 0 | 9/29/2026, 12:15:25 AM |
+| 23 | Humanos – Help Building the Human Operating System | zevinclark | 3 | 9/29/2026, 12:12:25 AM |
+| 24 | Making Things to Make Them | warthog | 0 | 9/29/2026, 12:11:06 AM |
+| 25 | GPT-6 Astra Is the Best Vision Model We Have Teste... | gmays | 0 | 9/29/2026, 12:10:30 AM |
+| 26 | Why embeddings don't solve RAG [video] | softwaredoug | 0 | 9/29/2026, 12:08:10 AM |
+| 27 | LLM makes decisions to raise its training scores, ... | guardiangod | 1 | 9/29/2026, 12:07:30 AM |
+| 28 | AMD Acquires Fei-Fei Li's World Labs for $8.2B | sbulaev | 0 | 9/29/2026, 12:07:11 AM |
+| 29 | 1996 chat room simulator connected to Win95 and Sy... | henrychannel | 4 | 9/29/2026, 12:06:48 AM |
+| 30 | Prenatal exposure to the plasticizer DEHP increase... | OutOfHere | 2 | 9/29/2026, 12:06:13 AM |
+| 31 | Atrocious AI-Written Tests | ngruhn | 0 | 9/29/2026, 12:05:36 AM |
+| 32 | I thought I was building a C replacement. I was wr... | birdculture | 0 | 9/29/2026, 12:05:28 AM |
+| 33 | Tech Utopians Want to Build a City for the Post-A.... | georgex7 | 0 | 9/29/2026, 12:05:18 AM |
+| 34 | Show HN | humbu-ndou | 1 | 9/28/2026, 11:58:20 PM |
+| 35 | China broadens travel curbs to encompass family of... | jnord | 0 | 9/28/2026, 11:46:50 PM |
+| 36 | Show HN: LightSpeed – Interactive visualizer of ti... | webland | 0 | 9/28/2026, 11:46:48 PM |
+| 37 | Reverse Engineering How Meta's Muse Shops | kalanpeace | 0 | 9/28/2026, 11:44:04 PM |
+| 38 | Anthropic's IPO prospectus shows AI vision, surgin... | 6thbit | 60 | 9/28/2026, 11:40:59 PM |
+| 39 | Nvidia announces AI safety platform | iamdamian | 1 | 9/28/2026, 11:38:02 PM |
+| 40 | Holo4: Powering generalist computer-use agents | 6thbit | 0 | 9/28/2026, 11:37:23 PM |
+| 41 | Pklm-sandbox – A lightweight open-source LogitsPro... | TheImmortalPyth | 0 | 9/28/2026, 11:36:38 PM |
+| 42 | Conrad Barski wrote a quirky file explorer | chungus | 0 | 9/28/2026, 11:35:35 PM |
+| 43 | EVs being trialled as giant batteries to power hom... | billybuckwheat | 1 | 9/28/2026, 11:35:26 PM |
+| 44 | Come Try the Srena | DynamicCreation | 0 | 9/28/2026, 11:33:08 PM |
+| 45 | Mark | JumpCrisscross | 0 | 9/28/2026, 11:33:03 PM |
+| 46 | Modern Warfare 2, Skate 3 and Minecraft in one gam... | davikr | 0 | 9/28/2026, 11:31:03 PM |
+| 47 | WSJ reports OpenAI scrapped GPT-6.1 Astra over saf... | smb06 | 2 | 9/28/2026, 11:30:35 PM |
+| 48 | US finalizes new lower fuel economy standards | geox | 0 | 9/28/2026, 11:29:21 PM |
+| 49 | Google seemingly confirms plans to kill ChromeOS i... | ihuman | 0 | 9/28/2026, 11:26:56 PM |
+| 50 | Agent token spend distribution: coding versus lega... | alansaber | 0 | 9/28/2026, 11:24:25 PM |
+| 51 | Show HN: Tiny e-ink display for your portfolio | tma | 0 | 9/28/2026, 11:22:29 PM |
+| 52 | Show HN: MuseTogether – let Meta's Muse agents coo... | waylaidwanderer | 0 | 9/28/2026, 11:21:59 PM |
+| 53 | MoE Analysis Qwen[3.5\|3.6]35B-A3B | gslaller | 1 | 9/28/2026, 11:21:51 PM |
+| 54 | When we talk about traffic violence | mslate | 0 | 9/28/2026, 11:20:51 PM |
+| 55 | Check twice, cut once with LLM search relevance ev... | softwaredoug | 0 | 9/28/2026, 11:18:07 PM |
+| 56 | AI tools generated nearly $1B in extra costs, Blue... | BiraIgnacio | 2 | 9/28/2026, 11:15:07 PM |
+| 57 | Block US sanctions on ICC, EU lawmakers tell Commi... | JumpCrisscross | 0 | 9/28/2026, 11:14:42 PM |
+| 58 | Training NanoGPT in 39.9 Seconds | Mizza | 1 | 9/28/2026, 11:14:21 PM |
+| 59 | Show HN: LLMs Play Chicken in Realtime | akcheese | 2 | 9/28/2026, 11:10:54 PM |
+| 60 | Sonnet 5.5 scores just behind Opus 5.5 on Artifici... | spenvo | 0 | 9/28/2026, 11:10:13 PM |
+| 61 | The Ratchet | mooreds | 0 | 9/28/2026, 11:07:54 PM |
+| 62 | Tech OpenAI abandons plan to release upcoming mode... | paulkrush | 0 | 9/28/2026, 11:06:49 PM |
+| 63 | Joseph Henrich's Report on Anthropology | dash2 | 0 | 9/28/2026, 11:06:30 PM |
+| 64 | Mosquitoes Are a Choice | zdw | 2 | 9/28/2026, 11:05:23 PM |
+| 65 | Go Pace Yourself (an example of what AI films done... | johnnyApplePRNG | 2 | 9/28/2026, 11:03:54 PM |
+| 66 | Electronics in U.S. homes by income [pdf] | kbelder | 0 | 9/28/2026, 11:02:59 PM |
+| 67 | Rogue Agent Investigation by Asymmetric Security | r_singh | 0 | 9/28/2026, 11:01:41 PM |
+| 68 | The Transparent Society (1998) | sans_souse | 0 | 9/28/2026, 10:57:00 PM |
+| 69 | Duet For The End Of Math [pdf] | optimalsolver | 0 | 9/28/2026, 10:54:17 PM |
+| 70 | OpenAI Scrapped Newest Model Release | pliiight | 0 | 9/28/2026, 10:53:22 PM |
+| 71 | Taking 'execute logging' a bit too literally CVE-2... | airhangerf15 | 0 | 9/28/2026, 10:51:58 PM |
+| 72 | The Edge of California Is Falling into the Ocean | blondie9x | 0 | 9/28/2026, 10:50:36 PM |
+| 73 | A diagram language where you say where things go | mooreds | 0 | 9/28/2026, 10:49:28 PM |
+| 74 | This Battery Is Ready to Eat | mooreds | 0 | 9/28/2026, 10:46:46 PM |
+| 75 | Show HN: Pac-Bench – How well can models one-shot ... | thefourthchime | 3 | 9/28/2026, 10:43:12 PM |
+| 76 | What if automating AI R&D triggers an intelligence... | whyleyc | 0 | 9/28/2026, 10:41:59 PM |
+| 77 | I built a FIDO2 hardware key. OpenAI says it isn't... | voidnullvalue | 0 | 9/28/2026, 10:41:31 PM |
+| 78 | Frogs Wear Bacterial Armor to Defend Against Fungu... | whiteblossom | 1 | 9/28/2026, 10:37:26 PM |
+| 79 | Synthetic Aperture Radar Drone Gets Interferometri... | whiteblossom | 0 | 9/28/2026, 10:36:55 PM |
+| 80 | AI Almost Started a U.S.–China War – and No One Se... | cdrnsf | 0 | 9/28/2026, 10:34:48 PM |
+| 81 | Optimize Tetris NP-Complete Solution with AlphaEvo... | vikas-sharma | 0 | 9/28/2026, 10:33:22 PM |
+| 82 | 10 Tokens for Your Meat Brain LLM | sastra | 1 | 9/28/2026, 10:32:16 PM |
+| 83 | Reliable AI automation done right (not with a mode... | senorcarbone | 0 | 9/28/2026, 10:31:53 PM |
+| 84 | AI is eroding the barriers that kept biological we... | EA-3167 | 3 | 9/28/2026, 10:30:48 PM |
+| 85 | SBX env: consistent and shareable AI sandbox confi... | pploug | 0 | 9/28/2026, 10:28:02 PM |
+| 86 | Meta Poaches MongoDB CEO "Effective Immediately" | mooreds | 0 | 9/28/2026, 10:25:44 PM |
+| 87 | Show HN: Procedural universe generation without N-... | PJHkorea | 1 | 9/28/2026, 10:22:41 PM |
+| 88 | Mathathon: Old Problems, New Proofs | JohnHammersley | 0 | 9/28/2026, 10:17:08 PM |
+| 89 | Boeing's Starliner won't launch astronauts until 2... | JumpCrisscross | 0 | 9/28/2026, 10:17:03 PM |
+| 90 | We Mapped All 11,000 Factory Farms in Iowa. Here A... | voidmain0001 | 0 | 9/28/2026, 10:14:57 PM |
+| 91 | Watch scientists decipher burnt scrolls without un... | bookofjoe | 1 | 9/28/2026, 10:14:54 PM |
+| 92 | App Store review allowed a Meta Muse copycat | JumpCrisscross | 0 | 9/28/2026, 10:13:58 PM |
+| 93 | Ukrainian forces advance in key eastern battlefiel... | JumpCrisscross | 0 | 9/28/2026, 10:13:33 PM |
+| 94 | Orcarouter/OrcaSAQ-2-27B | handfuloflight | 0 | 9/28/2026, 10:13:23 PM |
+| 95 | How the Internet got 32-bit addresses, as explaine... | emot | 0 | 9/28/2026, 10:11:33 PM |
+| 96 | Munich 787 Vietnam Airlines Interim report is out | nixass | 0 | 9/28/2026, 10:09:16 PM |
+| 97 | Destroy Any Website with a Stickman | hackerbeat | 0 | 9/28/2026, 10:08:54 PM |
+| 98 | Toughen GPS to resist jamming and spoofing (2022) | conorcleary | 0 | 9/28/2026, 10:08:45 PM |
+| 99 | OpenAI Scraps Release of New AI Model over Safety ... | borski | 5 | 9/28/2026, 10:07:59 PM |
+| 100 | MoreWrong | etc-hosts | 0 | 9/28/2026, 10:07:34 PM |

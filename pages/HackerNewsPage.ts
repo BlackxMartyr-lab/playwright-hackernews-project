@@ -32,7 +32,7 @@ export class HackerNewsPage {
         // Loop to collect articles until the desired number is reached or no more articles are available
         while (articlesList.length < maxArticles) {
             
-            // Tells the page to wait for the "More" button to be attached to the DOM before proceeding
+            // Tells the page to wait for the first article row to be visible before proceeding
             await this.articleRows.first().waitFor({ state: 'visible' });
 
             const countArticles = await this.articleRows.count();
@@ -63,7 +63,7 @@ export class HackerNewsPage {
                 }
                     // Initialize comments to 0 and extract the number of comments from the subtext row if available
                     let comments = 0;
-                    const commentElement = await subtextRow.locator('a').filter({ hasText: /comment|discuss/ });
+                    const commentElement = await subtextRow.locator('a').filter({ hasText: /comment|discuss/ }).last();
                     if (await commentElement.isVisible()) {
                         const commentText = await commentElement.innerText();
 
@@ -80,10 +80,13 @@ export class HackerNewsPage {
                  check if the "More" button is visible and click it to load more articles; otherwise, break the loop */
                 if (articlesList.length < maxArticles) {
                     
-                    // Tells the page to wait for the first article to be seen
+                    // Tells the page to wait for the "More" button to be attached to the DOM before proceeding
                     if (await this.moreButton.isVisible()) {
                         const currentTop = await this.articleRows.first().innerText();
                         await this.moreButton.click();
+
+                        /* Wait for the first article to change after clicking the "More" button,
+                          indicating that new articles have loaded */
                         await this.page.waitForFunction(
                             ([selector, oldTop]) => {
                                 const firstArticle = document.querySelector(selector);
